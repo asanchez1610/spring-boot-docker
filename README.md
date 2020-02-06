@@ -12,8 +12,8 @@ Ejecutar con docker compose
 
 Si se desea ejecutar el docker en otro proyecto, se deben copiar los acrhivos:
 
-- Dockerfile;
-- docker-compose.yml;
+- Dockerfile
+- docker-compose.yml
 
 Y se debe cambiar el nombre del jar generado por el maven en el archivo: docker-compose.yml
  
